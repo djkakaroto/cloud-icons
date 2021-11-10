@@ -1,7 +1,7 @@
 # cloud-icons
 Pack of icons of the cloud services
 
-* Services of the icons
+## Services of the icons
 
 - AWS 
 - Azure
@@ -12,7 +12,7 @@ Pack of icons of the cloud services
 - Traefik
 - Terraform
 
-* Download Source Icons
+## Download Source Icons
 
 - Site AWS - See [Link](https://aws.amazon.com/pt/architecture/icons/)
 - Site Azure - See [Link](https://docs.microsoft.com/pt-br/azure/architecture/icons/)

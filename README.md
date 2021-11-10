@@ -10,3 +10,4 @@ Pack of icons of the cloud services
 - Linux
 - Nginx
 - Traefik
+- Terraform
